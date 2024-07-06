@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmarkovChain.a CMakeFiles/markovChain.dir/markovChain/markovChain.cpp.o
+/usr/bin/ranlib libmarkovChain.a
